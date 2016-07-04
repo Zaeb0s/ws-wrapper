@@ -1,0 +1,2 @@
+include wswrapper/version
+include README.rst
